@@ -3,8 +3,8 @@ import time
 import sys
 import os
 
-SCRIPT_PATH = r"C:\Users\mrkis\Documents\ITU\AndroidCTF\nemid\frida-nemid\identifyImplements.js"
-APPLICATION_NAMESPACE = "dk.e_nettet.mobilekey.everyone"
+SCRIPT_PATH = r""
+APPLICATION_NAMESPACE = ""
 DEVICE_NAME = "emulator-5554"
 
 
